@@ -1,0 +1,10 @@
+tnc:
+  host: "localhost"
+  port: 8001
+  
+station:
+  callsign: "N0CALL"
+  monitor_mode: false
+  
+storage:
+  received_files_path: "received_files"
